@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: verdana, sans-serif;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: "Courier New", Courier, monospace;
+  color: #66bfbf;
+  line-height: 2;
+}
+
+h2 {
+  font-size: 2.5rem;
+  margin-top: 0;
+  font-family: "Courier New", Courier, monospace;
+  color: #66bfbf;
+  font-weight: normal;
+}
+
+.top-container {
+  background-color: #e3f6ff;
+  position: relative;
+  padding-top: 100px;
+}
+
+#firstImage {
+  border-radius: 50%;
+  float: left;
+}
+
+.skills {
+  width: 50%;
+  margin: 100px auto 100px auto;
+}
+
+.middle-container {
+  color: #11999e;
+}
+
+.bottom-container {
+  color: #11999e;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  top: 50px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
